@@ -1,0 +1,12 @@
+﻿using ExerciciosSwitch;
+using System;
+//DiasDaSemana.Main(args);
+//OperacoesAritmeticas.Main(args);
+//ClassIdade.Main(args);
+//MenuOpcoes.Main(args);
+//NotasAluno.Main(args);
+//OpcoesBebidas.Main(args);
+//CalcularImpostos.Main(args);
+//Temperatura.Main(args);
+//CategoriaFilme.Main(args);
+CalculadoraFatorial.Main(args);
